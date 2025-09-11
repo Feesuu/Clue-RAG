@@ -1,5 +1,5 @@
 
-# Clue-RAG: Towards Accurate and Cost-Efficient Graph-based RAG via Multi-Partite Graph and Query-Driven Iterative Retrieval.
+# ClueRAG: Towards Accurate and Cost-Efficient Graph-based RAG via Multi-Partite Graph and Query-Driven Iterative Retrieval.
 
 ![Static Badge](https://img.shields.io/badge/LLM-red)
 ![Static Badge](https://img.shields.io/badge/Graph_RAG-red)
